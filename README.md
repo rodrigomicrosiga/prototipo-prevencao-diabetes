@@ -6,12 +6,12 @@ REDES NEURAIS / I.A / MACHINE LEARNING / DEEP LEARNING
 - Processamento de Linguagem Neural (NLP)
 - Algoritmo de Busca e Otimização
 - Classificação de Dados/Imagens com Processamento de Linguagem Natural
-- Machine Learning para Modelos de Analises Preditivas, Agrupamentos e Associadores
-- Redes Neurais Convolucionais (CNN) e Redes Neurais Recorretes (LSTM)
+- Machine Learning para Modelos de Análises Preditivas, Agrupamentos e Associadores
+- Redes Neurais Convolucionais (CNN) e Redes Neurais Recorrentes (LSTM)
 - Regras baseadas em Lógica Difusa
 - Resolução de Problemas de Otimização com Algoritmos Genéticos
 - Reconhecimento de Caracteres com Redes Neurais Artificias e Deep Learning
-- Modelos e Mecanismos de analise de emoções (testes iniciais não embarcados nos artefatos gerados)
+- Modelos e Mecanismos de Análise de Emoções (testes iniciais não embarcados nos artefatos gerados)
 - Modelos com GPT-3 e DALL-E (testes iniciais não embarcados nos artefatos gerados)
 
 
