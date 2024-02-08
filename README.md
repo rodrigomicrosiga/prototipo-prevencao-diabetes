@@ -48,7 +48,12 @@ Contém os fontes de cada etapa do desenvolvimento.
 
 - ARTEFATOS
 
-Compilação de cada protótipo gerado.
+Compilação de cada protótipo gerado:
+
+- APP_CPDT_PROTOTIPO.ipa -> protótipo para dispositivos Apple
+- APP_CPDT_PROTOTIPO.apk -> protótipo para dispositivos Android
+- APP_CPDT_PROTOTIPO.core -> Protótipo multiplataforma para dispositivos desktop
+- APP_CPDT_PROTOTIPO_IMAGEM.ipa -> Protótipo exclusivo para captura e análise de imagens de maneira isolada com o propósito de popular corretamente a camada de banco de dados utilizado pela I.A e suas depedências.
 
 
 # IMPORTANTE:
