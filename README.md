@@ -1,4 +1,4 @@
-# CPDT - Centro do Pé Diabético Tardivo
+# PROTÓTIPO PARA PREVENÇÃO E ANÁLISE DE DIABETES
 Técnica e Aplicativo Preditivo para evitar Amputação do Pé Diabético
 
 REDES NEURAIS / I.A / MACHINE LEARNING / DEEP LEARNING
