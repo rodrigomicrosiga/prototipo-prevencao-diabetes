@@ -1,4 +1,4 @@
-# CPDT - Centro do Pé Diabético Tardivo
+# PROTÓTIPO PARA PREVENÇÃO E ANÁLISE DE DIABETES
 Técnica e Aplicativo Preditivo para evitar Amputação do Pé Diabético
 
 REDES NEURAIS / I.A / MACHINE LEARNING / DEEP LEARNING
@@ -50,10 +50,10 @@ Contém os fontes de cada etapa do desenvolvimento.
 
 Compilação de cada protótipo gerado:
 
-- APP_CPDT_PROTOTIPO.ipa -> protótipo para dispositivos Apple
-- APP_CPDT_PROTOTIPO.apk -> protótipo para dispositivos Android
-- APP_CPDT_PROTOTIPO.core -> Protótipo multiplataforma para dispositivos desktop
-- APP_CPDT_PROTOTIPO_IMAGEM.ipa -> Protótipo exclusivo para captura e análise de imagens de maneira isolada com o propósito de popular corretamente a camada de banco de dados utilizado pela I.A e suas depedências.
+- APP_PROTOTIPO.ipa -> protótipo para dispositivos Apple
+- APP_PROTOTIPO.apk -> protótipo para dispositivos Android
+- APP_PROTOTIPO.core -> Protótipo multiplataforma para dispositivos desktop
+- APP_PROTOTIPO_IMAGEM.ipa -> Protótipo exclusivo para captura e análise de imagens de maneira isolada com o propósito de popular corretamente a camada de banco de dados utilizado pela I.A e suas depedências.
 
 
 # IMPORTANTE:
